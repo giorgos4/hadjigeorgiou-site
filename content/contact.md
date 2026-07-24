@@ -11,9 +11,6 @@ Based in **Amsterdam, Netherlands**. Always open to connecting with engineers, A
 ### 💼 LinkedIn
 [linkedin.com/in/georgios-hadjigeorgiou](https://www.linkedin.com/in/georgios-hadjigeorgiou/)
 
-### 🐙 GitHub
-[github.com/giorgos4](https://github.com/giorgos4)
-
 ---
 
 ## Interests
