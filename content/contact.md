@@ -11,6 +11,9 @@ Based in **Amsterdam, Netherlands**. Always open to connecting with engineers, A
 ### 💼 LinkedIn
 [linkedin.com/in/georgios-hadjigeorgiou](https://www.linkedin.com/in/georgios-hadjigeorgiou/)
 
+### ✉️ Email
+[georgios.hadjigeorgiou@worldline.com](mailto:georgios.hadjigeorgiou@worldline.com)
+
 ---
 
 ## Interests

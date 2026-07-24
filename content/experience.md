@@ -46,3 +46,7 @@ TensorFlow, Machine Learning, Signal Processing
 *2016 – 2020*
 
 Matlab, Signal Processing
+
+---
+
+💼 [LinkedIn](https://www.linkedin.com/in/georgios-hadjigeorgiou/) · ✉️ [georgios.hadjigeorgiou@worldline.com](mailto:georgios.hadjigeorgiou@worldline.com)
