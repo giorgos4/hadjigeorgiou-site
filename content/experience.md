@@ -29,7 +29,7 @@ Product lead for Worldline's Connect API — the REST API suite, SDKs, and mobil
 ### Researcher, Bachelor End Project — **Eindhoven University of Technology**
 *Jan 2020 – Jul 2020 · 7 mos · Eindhoven, Netherlands*
 
-Research on spatial and temporal consistency of brain networks using different Multi-Echo fMRI Combination Methods (pending publication).
+Research on spatial and temporal consistency of brain networks using different Multi-Echo fMRI Combination Methods ([publication](https://www.scopus.com/pages/publications/85174819440#tab=citedBy)).
 
 ---
 
