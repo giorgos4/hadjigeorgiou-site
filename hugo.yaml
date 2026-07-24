@@ -15,7 +15,7 @@ minify:
 params:
   env: production
   title: "Georgios Hadjigeorgiou"
-  description: "Engineering Manager @ Worldline | AI Agents & Payments"
+  description: "Product & Technology @ Worldline | Bridging AI Agents & Payment Infrastructure"
   keywords: [Georgios Hadjigeorgiou, Engineering Manager, Worldline, AI, Payments, MCP, Connect API, Agentic Commerce]
   author: "Georgios Hadjigeorgiou"
   DateFormat: "January 2, 2006"
@@ -54,7 +54,7 @@ params:
   profileMode:
     enabled: true
     title: "Georgios Hadjigeorgiou"
-    subtitle: "Engineering Manager @ Worldline | Bridging AI Agents & Payment Infrastructure"
+    subtitle: "Product & Technology @ Worldline | Bridging AI Agents & Payment Infrastructure"
     imageUrl: "https://media.licdn.com/dms/image/v2/D4E03AQFY53eq8Bk0nQ/profile-displayphoto-scale_400_400/B4EZfqCiVZHsAs-/0/1751978224539?e=1786579200&v=beta&t=yxkGIdQ5t6ev6Z0e1pI_S076MCn6D18OZQJCyxUuLaA"
     imageWidth: 120
     imageHeight: 120
