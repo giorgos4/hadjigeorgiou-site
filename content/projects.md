@@ -15,13 +15,15 @@ Worldline's **Model Context Protocol (MCP) Server** bridges AI agents and paymen
 
 **Stack**: MCP Protocol, REST APIs, Global Collect Platform, LLM Integration
 
+📺 [Watch on YouTube](https://youtu.be/SKKYEvaGzvA?si=xW-MR-BBM9iveW07)
+
 ---
 
 ## Connect API — Worldline
 
 A suite of REST API tools, SDKs, and mobile-first interfaces for simple, fast, and secure integration with Worldline's payment platforms. Serving global e-commerce merchants.
 
-📺 [Watch on YouTube](https://www.youtube.com/@WorldlineMerchantServices)
+📺 [Watch on YouTube](https://youtu.be/Pa41wLgku-M?si=YUdW_1EbY5SeDxwU)
 
 ---
 
