@@ -7,58 +7,42 @@ draft: false
 ## Work
 
 ### Engineering Manager — **Worldline**
-*September 2025 – Present | Amsterdam, Netherlands*
+*Sep 2025 – Present · Amsterdam Area*
 
-Leading engineering efforts at the intersection of AI agents and payment infrastructure. Currently driving the development of Worldline's **MCP (Model Context Protocol) Server** on the Global Collect platform, enabling AI agents to initiate secure, compliant transactions — from payment links and refunds to status checks and captures.
+Leading engineering for AI-powered payment infrastructure. Driving Worldline's MCP (Model Context Protocol) Server on the Global Collect platform — a translation layer between LLMs and payment APIs enabling AI agents to initiate transactions, issue refunds, and manage payment workflows via natural language.
 
-- Architecting agentic commerce capabilities that bridge LLMs and payment APIs
-- Building tools for AI-driven payment workflows via natural language
-- Featured in Finovate and Worldline Merchant Services for pioneering agentic payments
+### Product Manager, API & Integrations — **Worldline**
+*Feb 2023 – Sep 2025 · 2 yrs 8 mos*
 
-### Product Manager, Connect API — **Worldline**
-*Prior to September 2025 | Amsterdam, Netherlands*
+Product lead for Worldline's Connect API — the REST API suite, SDKs, and mobile-first interfaces that power payment integration for global e-commerce merchants. Presented Connect API on the Worldline Merchant Services channel.
 
-Product lead for Worldline's **Connect API** — a suite of REST API tools, SDKs, and mobile-first interfaces for payment integration serving global e-commerce merchants.
+### Product Manager — **adoor**
+*Aug 2020 – Sep 2022 · 2 yrs 2 mos · Nicosia, Cyprus*
 
-- Presented Connect API on the Worldline Merchant Services YouTube channel
-- Drove adoption of the platform's developer experience and integration tooling
-- Co-authored thought leadership on payment regulations and mobile app payments
+- Developed adoor's mobile applications for iOS and Android using Flutter SDK
+- Built and tested adoor's API using Python
+- Integrated adoor's ordering, inventory, and CRM systems with ERP software
 
-### Onboarding Officer — **TRAction Fintech**
-*London, United Kingdom*
+### Teaching Assistant — **Eindhoven University of Technology**
+*Nov 2019 – Aug 2020 · 10 mos*
 
-Client onboarding and trade reporting in the financial sector. Managed client files, created logic for development teams, and resolved exceptions and script errors with developers.
+### Researcher, Bachelor End Project — **Eindhoven University of Technology**
+*Jan 2020 – Jul 2020 · 7 mos · Eindhoven, Netherlands*
 
-- Analyzed fulfillment center data across UK, EU, and AU markets
-- Advised managers on operational efficiency and profitability
-
-### Process Analyst — Logistics & Supply Chain
-*2+ years*
-
-Data analysis and process optimization for logistics and supply chain operations across multiple regions.
-
-### Engineering Consultant
-*Marine, Energy, Pumping & Construction sectors*
-
-Provided engineering consulting services across industrial sectors.
+Research on spatial and temporal consistency of brain networks using different Multi-Echo fMRI Combination Methods (pending publication).
 
 ---
 
 ## Education
 
-### Technische Universiteit Delft
-*2020 – 2023 | Delft, Netherlands*
+### Delft University of Technology
+**MSc Electrical Engineering** — Signals and Systems track
+*Sep 2020 – Dec 2023*
 
-### University of Southampton
-**MSc Computational Engineering and Design**
+TensorFlow, Machine Learning, Signal Processing
 
-**BEng Mechanical Engineering**
+### Eindhoven University of Technology
+**BSc Electrical Engineering**
+*2016 – 2020*
 
----
-
-## Skills
-
-- **AI & ML**: Large Language Models, Model Context Protocol (MCP), Agentic Systems
-- **Payments**: Payment APIs, Global Collect, Merchant Services, Fintech Compliance
-- **Engineering**: Product Management, API Design, Developer Experience, REST APIs
-- **Leadership**: Engineering Management, Cross-functional Teams, Stakeholder Communication
+Matlab, Signal Processing

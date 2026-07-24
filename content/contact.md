@@ -6,23 +6,20 @@ draft: false
 
 ## Get in Touch
 
-I'm based in **Amsterdam, Netherlands** and always open to connecting with fellow engineers, AI enthusiasts, and fintech innovators.
-
-### 📧 Email
-[georgios.hadjigeorgiou@worldline.com](mailto:georgios.hadjigeorgiou@worldline.com)
+Based in **Amsterdam, Netherlands**. Always open to connecting with engineers, AI enthusiasts, and fintech innovators.
 
 ### 💼 LinkedIn
-[linkedin.com/in/georgios-hadjigeorgiou-35433715b](https://www.linkedin.com/in/georgios-hadjigeorgiou-35433715b)
+[linkedin.com/in/georgios-hadjigeorgiou](https://www.linkedin.com/in/georgios-hadjigeorgiou/)
 
 ### 🐙 GitHub
-[github.com/ghadjigeorghiou](https://github.com/ghadjigeorghiou)
+[github.com/giorgos4](https://github.com/giorgos4)
 
 ---
 
-## Areas of Interest
+## Interests
 
 - AI Agents & Autonomous Systems
 - Agentic Commerce & Payment Infrastructure
 - Model Context Protocol (MCP)
 - API Design & Developer Experience
-- Fintech Innovation
+- Signal Processing & Machine Learning

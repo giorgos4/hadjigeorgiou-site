@@ -6,29 +6,31 @@ draft: false
 
 ## Worldline MCP Server — Agentic Commerce
 
-Worldline's **Model Context Protocol (MCP) Server** bridges AI agents and payment infrastructure on the Global Collect platform. It serves as a translation layer between LLMs and payment APIs, enabling AI agents to:
+Worldline's **Model Context Protocol (MCP) Server** bridges AI agents and payment infrastructure on the Global Collect platform. A translation layer between LLMs and payment APIs that enables:
 
-- Create hosted payment links via natural language
-- Process refunds and payment status checks
-- Manage payment captures and workflows
-- Execute agent-initiated transactions with full compliance and security
+- Creating hosted payment links via natural language
+- Processing refunds and payment status checks
+- Managing payment captures and workflows
+- Agent-initiated transactions with full compliance and security
 
-**Coverage**: [Finovate](https://finovate.com/), Worldline Developer Blog
-
-**Stack**: MCP Protocol, REST APIs, Global Collect Platform, AI/LLM Integration
+**Stack**: MCP Protocol, REST APIs, Global Collect Platform, LLM Integration
 
 ---
 
 ## Connect API — Worldline
 
-A suite of REST API tools, SDKs, and mobile-first interfaces designed for simple, fast, and secure integration with Worldline's payment platforms. Serving global e-commerce merchants for over 8 years.
+A suite of REST API tools, SDKs, and mobile-first interfaces for simple, fast, and secure integration with Worldline's payment platforms. Serving global e-commerce merchants.
 
-📺 [Watch the presentation](https://www.youtube.com/watch?v=W_zgh_NsTfo)
+📺 [Watch on YouTube](https://www.youtube.com/@WorldlineMerchantServices)
 
 ---
 
-## Talks & Presentations
+## adoor
 
-- **Connect API Deep Dive** — Worldline Merchant Services (YouTube)
-- **MCP Server: AI Agents Meet Payments** — Worldline Internal Tech Talks
-- **Agentic Commerce: The Next Frontier** — Industry events & panels
+Mobile applications for iOS and Android built with Flutter SDK, backed by a Python API. Integrated ordering, inventory, and CRM with ERP software.
+
+---
+
+## Academic Research
+
+Spatial and temporal consistency of brain networks using different Multi-Echo fMRI Combination Methods — Eindhoven University of Technology.

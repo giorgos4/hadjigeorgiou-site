@@ -15,8 +15,8 @@ minify:
 params:
   env: production
   title: "Georgios Hadjigeorgiou"
-  description: "Engineering Manager @ Worldline | AI Agents & Payments | MCP Server"
-  keywords: [Georgios Hadjigeorgiou, Engineering Manager, Worldline, AI, Payments, MCP Server, Connect API, Agentic Commerce]
+  description: "Engineering Manager @ Worldline | AI Agents & Payments"
+  keywords: [Georgios Hadjigeorgiou, Engineering Manager, Worldline, AI, Payments, MCP, Connect API, Agentic Commerce]
   author: "Georgios Hadjigeorgiou"
   DateFormat: "January 2, 2006"
   defaultTheme: auto
@@ -60,17 +60,17 @@ params:
     imageHeight: 120
     buttons:
       - name: Experience
-        url: /experience
+        url: /experience/
       - name: Projects
-        url: /projects
+        url: /projects/
       - name: Contact
-        url: /contact
+        url: /contact/
 
   socialIcons:
     - name: linkedin
-      url: "https://www.linkedin.com/in/georgios-hadjigeorgiou-35433715b"
+      url: "https://www.linkedin.com/in/georgios-hadjigeorgiou/"
     - name: github
-      url: "https://github.com/ghadjigeorghiou"
+      url: "https://github.com/giorgos4"
     - name: email
       url: "mailto:georgios.hadjigeorgiou@worldline.com"
 
